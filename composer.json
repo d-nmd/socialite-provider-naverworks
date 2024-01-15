@@ -1,5 +1,5 @@
 {
-    "name": "socialiteproviders/naverworks",
+    "name": "d-nmd/socialite-provider-naverworks",
     "description": "NaverWorks OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "keywords": [
